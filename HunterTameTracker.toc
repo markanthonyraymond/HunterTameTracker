@@ -1,0 +1,7 @@
+## Interface: 120001,120002,120005,120100,120200,120300,121000,130000
+## Title: Hunter Tame Tracker
+## Notes: Tracks hunter taming unlocks via quest/spell flags with a UI
+## Version: 1.0.0
+## SavedVariables: HTT_DB
+
+HunterTameTracker.lua
