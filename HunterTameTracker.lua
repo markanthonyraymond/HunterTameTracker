@@ -400,13 +400,13 @@ local LIST = {
     tomeName = "Gargon Training Manual",
     itemID = 180705,
     unlock = { quests = { 61160 } },
-    waypoint = { x = 60.8, y = 73.2, label = "Huntmaster Petrus" },
+    waypoint = { x = 61.89, y = 78.50, label = "Huntmaster Petrus" },
     guide =
       "Gargon Training Manual (Gargon)\n\n" ..
       "Source:\n" ..
       "- Drops from Huntmaster Petrus (Revendreth)\n\n" ..
       "Waypoint (Revendreth):\n" ..
-      "/way 60.8 73.2 Huntmaster Petrus\n\n" ..
+      "/way 61.89 78.50 Huntmaster Petrus\n\n" ..
       "Use:\n" ..
       "- Read the manual -> Gargon taming unlocked.",
   },
@@ -459,15 +459,15 @@ local LIST = {
     tomeName = "How to Train a Dragonkin",
     itemID = 201791,
     unlock = { quests = { 72094 } },
-    waypoint = { x = 36.0, y = 62.6, label = "Quartermaster Huseng" },
+    waypoint = { x = 46.8, y = 78.8, label = "Kaestrasz" },
     guide =
       "How to Train a Dragonkin (Dragonkin)\n\n" ..
       "Requirement:\n" ..
       "- Valdrakken Accord Renown 23\n\n" ..
       "Source:\n" ..
-      "- Purchase from Quartermaster Huseng (Valdrakken)\n\n" ..
+      "- Purchase from Kaestrasz (Valdrakken)\n\n" ..
       "Waypoint (Valdrakken):\n" ..
-      "/way 36.0 62.6 Quartermaster Huseng\n\n" ..
+      "/way 46.8 78.8 Kaestrasz\n\n" ..
       "Use:\n" ..
       "- Read the book -> Lesser Dragonkin taming unlocked.",
   },
